@@ -19,7 +19,7 @@ seo:
   title: 'Online Shopping Mauritius: Online Shops & Delivery Services'
   description: >-
     Your guide to the growing sector of online shopping in Mauritius. We have
-    tested and reviewed the   
+    tested and reviewed the best Mauritius online shops & delivery services.
   extra:
     - name: 'og:type'
       value: website
