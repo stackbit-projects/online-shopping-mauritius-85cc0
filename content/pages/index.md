@@ -28,7 +28,10 @@ seo:
       value: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Your guide to the growing sector of online shopping in Mauritius. We
+        have tested and reviewed the best Mauritius online shops & delivery
+        services.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
