@@ -8,9 +8,6 @@ intro_content: >
   shopping website in Mauritius - please feel free to contact us to be
   reviewed. 
 intro_actions:
-  - label: Learn More
-    url: /about
-    style: primary
   - label: Contact
     url: /contact
     style: secondary
