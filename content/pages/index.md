@@ -34,7 +34,7 @@ seo:
         services.
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shop.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
