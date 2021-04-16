@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: true
+has_intro: false
 intro_content: >
   Mauritius Online is your guide to the growing sector of online shopping in
   Mauritius. We have selected, independently tested and reviewed the most
